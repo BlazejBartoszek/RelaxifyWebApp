@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\RelaxifyEventRentWeb\RelaxifyEventRentWeb.Utility\bin\Debug\net8.0\RelaxifyEventRentWeb.Utility.deps.json
+C:\Users\PC\source\repos\RelaxifyEventRentWeb\RelaxifyEventRentWeb.Utility\bin\Debug\net8.0\RelaxifyEventRentWeb.Utility.dll
+C:\Users\PC\source\repos\RelaxifyEventRentWeb\RelaxifyEventRentWeb.Utility\bin\Debug\net8.0\RelaxifyEventRentWeb.Utility.pdb
+C:\Users\PC\source\repos\RelaxifyEventRentWeb\RelaxifyEventRentWeb.Utility\obj\Debug\net8.0\RelaxifyEventRentWeb.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\RelaxifyEventRentWeb\RelaxifyEventRentWeb.Utility\obj\Debug\net8.0\RelaxifyEventRentWeb.Utility.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\RelaxifyEventRentWeb\RelaxifyEventRentWeb.Utility\obj\Debug\net8.0\RelaxifyEventRentWeb.Utility.AssemblyInfo.cs
+C:\Users\PC\source\repos\RelaxifyEventRentWeb\RelaxifyEventRentWeb.Utility\obj\Debug\net8.0\RelaxifyEventRentWeb.Utility.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RelaxifyEventRentWeb\RelaxifyEventRentWeb.Utility\obj\Debug\net8.0\RelaxifyEventRentWeb.Utility.dll
+C:\Users\PC\source\repos\RelaxifyEventRentWeb\RelaxifyEventRentWeb.Utility\obj\Debug\net8.0\refint\RelaxifyEventRentWeb.Utility.dll
+C:\Users\PC\source\repos\RelaxifyEventRentWeb\RelaxifyEventRentWeb.Utility\obj\Debug\net8.0\RelaxifyEventRentWeb.Utility.pdb
+C:\Users\PC\source\repos\RelaxifyEventRentWeb\RelaxifyEventRentWeb.Utility\obj\Debug\net8.0\ref\RelaxifyEventRentWeb.Utility.dll
