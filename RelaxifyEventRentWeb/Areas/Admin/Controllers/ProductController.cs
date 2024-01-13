@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using RelaxifyEventRentWeb.DataAccess.Repository.IRepository;
 using RelaxifyEventRentWeb.Models;
 
@@ -7,70 +8,55 @@ namespace RelaxifyEventRentWeb.Areas.Admin.Controllers
     [Area("Admin")]
     public class ProductController : Controller
     {
-        private readonly IProductRepository _categoryRepo;
-        public ProductController(IProductRepository db)
+        private readonly IProductRepository _productRepo;
+        private readonly ICategoryRepository _categoryRepo;
+        public ProductController(ICategoryRepository dbC, IProductRepository dbP)
         {
-            _categoryRepo = db;
-        }
+            _categoryRepo = dbC;
+            _productRepo = dbP;
+        }       
 
         public IActionResult Index()
         {
-            List<Product> objCategoryList = _categoryRepo.GetAll().ToList();
+            List<Product> objCategoryList = _productRepo.GetAll().ToList();            
 
             return View(objCategoryList);
         }
 
-        public IActionResult Create()
+        public IActionResult Upsert(int? id)
         {
-            return View();
+            IEnumerable<SelectListItem> CategoryList = _categoryRepo.GetAll().Select(u => new SelectListItem
+            {
+                Text = u.Name,
+                Value = u.Id.ToString()
+            });
+
+            ViewBag.CategoryList = CategoryList;
+
+            if (id==null || id==0)
+            {
+                return View(CategoryList);
+            }
+            else
+            {                
+                return View(_productRepo.Get(u => u.Id == id));
+            }
         }
 
         [HttpPost]
-        public IActionResult Create(Product obj)
+        public IActionResult Upsert(Product obj, IFormFile? file)
         {
             if (ModelState.IsValid)
             {
-                _categoryRepo.Add(obj);
-                _categoryRepo.Save();
+                _productRepo.Add(obj);
+                _productRepo.Save();
                 TempData["success"] = "Nowa kategoria została utworzona pomyślnie";
 
                 return RedirectToAction("Index");
             }
 
             return View();
-        }
-
-        public IActionResult Edit(int? id)
-        {
-            if (id == null || id == 0)
-            {
-                return NotFound();
-            }
-
-            Product? categoryFromDb = _categoryRepo.Get(u => u.Id == id);
-
-            if (categoryFromDb == null)
-            {
-                return NotFound();
-            }
-
-            return View(categoryFromDb);
-        }
-
-        [HttpPost]
-        public IActionResult Edit(Product obj)
-        {
-            if (ModelState.IsValid)
-            {
-                _categoryRepo.Update(obj);
-                _categoryRepo.Save();
-                TempData["success"] = "Kategoria została edytowana pomyślnie";
-
-                return RedirectToAction("Index");
-            }
-
-            return View();
-        }
+        }               
 
         public IActionResult Delete(int? id)
         {
@@ -79,7 +65,7 @@ namespace RelaxifyEventRentWeb.Areas.Admin.Controllers
                 return NotFound();
             }
 
-            Product? categoryFromDb = _categoryRepo.Get(u => u.Id == id);
+            Product? categoryFromDb = _productRepo.Get(u => u.Id == id);
 
             if (categoryFromDb == null)
             {
@@ -92,15 +78,15 @@ namespace RelaxifyEventRentWeb.Areas.Admin.Controllers
         [HttpPost, ActionName("Delete")]
         public IActionResult DeletePost(int? id)
         {
-            Product? categoryFromDb = _categoryRepo.Get(u => u.Id == id);
+            Product? categoryFromDb = _productRepo.Get(u => u.Id == id);
 
             if (categoryFromDb == null)
             {
                 return NotFound();
             }
 
-            _categoryRepo.Remove(categoryFromDb);
-            _categoryRepo.Save();
+            _productRepo.Remove(categoryFromDb);
+            _productRepo.Save();
             TempData["success"] = "Kategoria została usunięta pomyślnie";
 
             return RedirectToAction("Index");

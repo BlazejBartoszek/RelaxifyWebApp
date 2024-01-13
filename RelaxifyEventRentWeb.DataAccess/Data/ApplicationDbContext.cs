@@ -38,6 +38,8 @@ namespace RelaxifyEventRentWeb.DataAccess.Data
                     ProductName = "Namiot 3x6",
                     Description = "Czarny namiot o ymiarach 3x6 idealny na wydarzenia plenerowe.",
                     Price = 450,
+                    CategoryId = 12,
+                    ImageUrl = ""
                 },
                  new Product
                  {
@@ -45,6 +47,8 @@ namespace RelaxifyEventRentWeb.DataAccess.Data
                      ProductName = "Namiot 2x2",
                      Description = "Czarny namiot o ymiarach 2x2 idealny na wydarzenia plenerowe.",
                      Price = 250,
+                     CategoryId = 11,
+                     ImageUrl = ""
                  },
                   new Product
                   {
@@ -52,6 +56,8 @@ namespace RelaxifyEventRentWeb.DataAccess.Data
                       ProductName = "Podesty sceniczne",
                       Description = "Podesty sceniczne allustage idealne na Twoje wydarzenia",
                       Price = 30,
+                      CategoryId = 10,
+                      ImageUrl=""
                   },
                    new Product
                    {
@@ -59,6 +65,8 @@ namespace RelaxifyEventRentWeb.DataAccess.Data
                        ProductName = "Namiot gwiazda",
                        Description = "Namiot w kształcie gwiazdy, wyglada swietnie na każdym uroczystm wydarzeniu, ale nie tylko",
                        Price = 2760,
+                       CategoryId = 1,
+                       ImageUrl = ""
                    }                    
                 );
         }
