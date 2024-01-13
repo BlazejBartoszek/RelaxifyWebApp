@@ -1,20 +1,21 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using RelaxifyEventRentWeb.DataAccess.Data;
+using RelaxifyEventRentWeb.DataAccess.Repository.IRepository;
 using RelaxifyEventRentWeb.Models;
 
-namespace RelaxifyEventRentWeb.Controllers
+namespace RelaxifyEventRentWeb.Areas.Admin.Controllers
 {
-    public class CategoryController : Controller
+    [Area("Admin")]
+    public class ProductController : Controller
     {
-        private readonly ApplicationDbContext _db;
-        public CategoryController(ApplicationDbContext db)
+        private readonly IProductRepository _categoryRepo;
+        public ProductController(IProductRepository db)
         {
-            _db = db;
+            _categoryRepo = db;
         }
 
         public IActionResult Index()
         {
-            List<Category> objCategoryList = _db.Category.ToList();
+            List<Product> objCategoryList = _categoryRepo.GetAll().ToList();
 
             return View(objCategoryList);
         }
@@ -25,12 +26,12 @@ namespace RelaxifyEventRentWeb.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(Category obj)
+        public IActionResult Create(Product obj)
         {
             if (ModelState.IsValid)
             {
-                _db.Category.Add(obj);
-                _db.SaveChanges();
+                _categoryRepo.Add(obj);
+                _categoryRepo.Save();
                 TempData["success"] = "Nowa kategoria została utworzona pomyślnie";
 
                 return RedirectToAction("Index");
@@ -46,7 +47,7 @@ namespace RelaxifyEventRentWeb.Controllers
                 return NotFound();
             }
 
-            Category? categoryFromDb = _db.Category.Find(id);
+            Product? categoryFromDb = _categoryRepo.Get(u => u.Id == id);
 
             if (categoryFromDb == null)
             {
@@ -57,12 +58,12 @@ namespace RelaxifyEventRentWeb.Controllers
         }
 
         [HttpPost]
-        public IActionResult Edit(Category obj)
+        public IActionResult Edit(Product obj)
         {
             if (ModelState.IsValid)
             {
-                _db.Category.Update(obj);
-                _db.SaveChanges();
+                _categoryRepo.Update(obj);
+                _categoryRepo.Save();
                 TempData["success"] = "Kategoria została edytowana pomyślnie";
 
                 return RedirectToAction("Index");
@@ -78,7 +79,7 @@ namespace RelaxifyEventRentWeb.Controllers
                 return NotFound();
             }
 
-            Category? categoryFromDb = _db.Category.Find(id);
+            Product? categoryFromDb = _categoryRepo.Get(u => u.Id == id);
 
             if (categoryFromDb == null)
             {
@@ -88,21 +89,21 @@ namespace RelaxifyEventRentWeb.Controllers
             return View(categoryFromDb);
         }
 
-        [HttpPost]
-        public IActionResult Delete(Category obj)
+        [HttpPost, ActionName("Delete")]
+        public IActionResult DeletePost(int? id)
         {
-            Category? categoryFromDb = _db.Category.Find(obj.Id);
+            Product? categoryFromDb = _categoryRepo.Get(u => u.Id == id);
 
             if (categoryFromDb == null)
             {
                 return NotFound();
             }
 
-            _db.Category.Remove(categoryFromDb);
-            _db.SaveChanges();
+            _categoryRepo.Remove(categoryFromDb);
+            _categoryRepo.Save();
             TempData["success"] = "Kategoria została usunięta pomyślnie";
 
-            return RedirectToAction("Index");            
+            return RedirectToAction("Index");
         }
     }
 }

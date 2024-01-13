@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace RelaxifyEventRentWeb.DataAccess.Migrations
 {
     /// <inheritdoc />
-    public partial class AddCategodryToDBAndSeedTable : Migration
+    public partial class AddCategoryToDbAndSeedTable : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

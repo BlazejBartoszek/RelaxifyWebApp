@@ -10,8 +10,8 @@ using RelaxifyEventRentWeb.DataAccess.Data;
 namespace RelaxifyEventRentWeb.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240110154147_AddCategodryToDBAndSeedTable")]
-    partial class AddCategodryToDBAndSeedTable
+    [Migration("20240110210619_AddCategoryToDbAndSeedTable")]
+    partial class AddCategoryToDbAndSeedTable
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

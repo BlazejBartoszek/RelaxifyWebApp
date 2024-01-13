@@ -1,0 +1,58 @@
+﻿@model List<Product>
+
+<div class="card shadow border-0 mt-4">
+    <div class="ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="py-2">Lista kategorii</h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="card-body p-4">
+        <div class="container">
+            <div class="row pb-3">                
+                <div class="col-12 text-end">
+                    <a asp-controller="Product" asp-action="Create" class="btn btn-primary"><i class="bi bi-plus-circle"></i> Utwórz nowy produkt</a>
+                </div>
+            </div>
+        </div>
+
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>
+                        Produkt
+                    </th>
+                    <th>
+                        Cena
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var obj in Model.OrderBy(u => u.ProductName))
+                {
+                    <tr>
+                        <td>
+                            @obj.ProductName
+                        </td>
+                        <td>
+                            @obj.Price
+                        </td>
+                        <td>
+                            <div class="w-75 btn-group" role="group">
+                                <a asp-controller="Category" asp-action="Edit" asp-route-Id="@obj.Id" class="btn btn-primary mx-2">
+                                    <i class="bi bi-pencil-square"></i> Edytuj
+                                </a>
+                                <a asp-controller="Category" asp-action="Delete" asp-route-Id="@obj.Id" class="btn btn-danger mx-2 ">
+                                    <i class="bi bi-trash3-fill"></i> Usuń
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

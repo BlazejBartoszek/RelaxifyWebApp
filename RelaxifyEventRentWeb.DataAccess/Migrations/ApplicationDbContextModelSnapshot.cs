@@ -116,6 +116,58 @@ namespace RelaxifyEventRentWeb.DataAccess.Migrations
                             Name = "Meble z palet"
                         });
                 });
+
+            modelBuilder.Entity("RelaxifyEventRentWeb.Models.Product", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<string>("Description")
+                        .HasColumnType("longtext");
+
+                    b.Property<int>("Price")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ProductName")
+                        .IsRequired()
+                        .HasMaxLength(30)
+                        .HasColumnType("varchar(30)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Product");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Description = "Czarny namiot o ymiarach 3x6 idealny na wydarzenia plenerowe.",
+                            Price = 450,
+                            ProductName = "Namiot 3x6"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Description = "Czarny namiot o ymiarach 2x2 idealny na wydarzenia plenerowe.",
+                            Price = 250,
+                            ProductName = "Namiot 2x2"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Description = "Podesty sceniczne allustage idealne na Twoje wydarzenia",
+                            Price = 30,
+                            ProductName = "Podesty sceniczne"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Description = "Namiot w kształcie gwiazdy, wyglada swietnie na każdym uroczystm wydarzeniu, ale nie tylko",
+                            Price = 2760,
+                            ProductName = "Namiot gwiazda"
+                        });
+                });
 #pragma warning restore 612, 618
         }
     }

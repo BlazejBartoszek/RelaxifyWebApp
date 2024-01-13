@@ -839,7 +839,7 @@
           "buildTransitive/Microsoft.CodeAnalysis.Analyzers.targets": {}
         }
       },
-      "Microsoft.CodeAnalysis.AnalyzerUtilities/3.3.0": {
+      "Microsoft.CodeAnalysis.AnalyzerUtilities/3.3.4": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll": {
@@ -4555,19 +4555,19 @@
         "tools/uninstall.ps1"
       ]
     },
-    "Microsoft.CodeAnalysis.AnalyzerUtilities/3.3.0": {
-      "sha512": "gyQ70pJ4T7hu/s0+QnEaXtYfeG/JrttGnxHJlrhpxsQjRIUGuRhVwNBtkHHYOrUAZ/l47L98/NiJX6QmTwAyrg==",
+    "Microsoft.CodeAnalysis.AnalyzerUtilities/3.3.4": {
+      "sha512": "rBSEqZI5csxmHnG0Glngwn4yMeb5zHrgrhhjGTIfRHDjWgG2AB0bkCqMIRv9IWU4Q2Ob/wcZFv/eOk4yul8vZA==",
       "type": "package",
-      "path": "microsoft.codeanalysis.analyzerutilities/3.3.0",
+      "path": "microsoft.codeanalysis.analyzerutilities/3.3.4",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "EULA.rtf",
-        "ThirdPartyNotices.rtf",
+        "Icon.png",
+        "ThirdPartyNotices.txt",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.AnalyzerUtilities.xml",
-        "microsoft.codeanalysis.analyzerutilities.3.3.0.nupkg.sha512",
+        "microsoft.codeanalysis.analyzerutilities.3.3.4.nupkg.sha512",
         "microsoft.codeanalysis.analyzerutilities.nuspec",
         "tools/install.ps1",
         "tools/uninstall.ps1"
@@ -8115,6 +8115,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter >= 8.0.0",
+      "Microsoft.CodeAnalysis.AnalyzerUtilities >= 3.3.4",
       "Microsoft.EntityFrameworkCore >= 8.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.0",
@@ -8124,19 +8125,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {}
+    "C:\\Users\\Bodzio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\RelaxifyEventRentWeb\\RelaxifyEventRentWeb\\RelaxifyEventRentWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\RelaxifyEventRentWeb.csproj",
       "projectName": "RelaxifyEventRentWeb",
-      "projectPath": "C:\\Users\\PC\\source\\repos\\RelaxifyEventRentWeb\\RelaxifyEventRentWeb\\RelaxifyEventRentWeb.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\source\\repos\\RelaxifyEventRentWeb\\RelaxifyEventRentWeb\\obj\\",
+      "projectPath": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\RelaxifyEventRentWeb.csproj",
+      "packagesPath": "C:\\Users\\Bodzio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bodzio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8150,8 +8151,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\PC\\source\\repos\\RelaxifyEventRentWeb\\RelaxifyEventRentWeb.DataAccess\\RelaxifyEventRentWeb.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\PC\\source\\repos\\RelaxifyEventRentWeb\\RelaxifyEventRentWeb.DataAccess\\RelaxifyEventRentWeb.DataAccess.csproj"
+            "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb.DataAccess\\RelaxifyEventRentWeb.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb.DataAccess\\RelaxifyEventRentWeb.DataAccess.csproj"
             }
           }
         }
@@ -8169,6 +8170,10 @@
           "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
             "target": "Package",
             "version": "[8.0.0, )"
+          },
+          "Microsoft.CodeAnalysis.AnalyzerUtilities": {
+            "target": "Package",
+            "version": "[3.3.4, )"
           },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -8212,7 +8217,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
