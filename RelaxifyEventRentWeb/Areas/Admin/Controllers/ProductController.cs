@@ -10,15 +10,19 @@ namespace RelaxifyEventRentWeb.Areas.Admin.Controllers
     {
         private readonly IProductRepository _productRepo;
         private readonly ICategoryRepository _categoryRepo;
-        public ProductController(ICategoryRepository dbC, IProductRepository dbP)
+        private readonly IWebHostEnvironment _webHostEnvironment;
+        public ProductController(ICategoryRepository dbC, IProductRepository dbP, IWebHostEnvironment webHostEnvironment)
         {
             _categoryRepo = dbC;
             _productRepo = dbP;
+            _webHostEnvironment = webHostEnvironment;
         }       
 
         public IActionResult Index()
         {
-            List<Product> objCategoryList = _productRepo.GetAll().ToList();            
+            List<Product> objCategoryList = _productRepo.GetAll().ToList();
+
+            TempData["ImageUrl"] = "\\images\\product\\1a5c43f3-dc8a-4413-8c0b-1ee05905a0fd.jpg";
 
             return View(objCategoryList);
         }
@@ -31,24 +35,47 @@ namespace RelaxifyEventRentWeb.Areas.Admin.Controllers
                 Value = u.Id.ToString()
             });
 
-            ViewBag.CategoryList = CategoryList;
+            ViewBag.CategoryList = CategoryList;            
 
             if (id==null || id==0)
             {
-                return View(CategoryList);
+                TempData["UpsertTitle"] = "Utwórz";
+                TempData["UpsertConfirmButton"] = "Utwórz";
+                TempData["ImageUrl"] = "https://as1.ftcdn.net/v2/jpg/02/57/42/72/1000_F_257427286_Lp7c9XdPnvN46TyFKqUaZpPADJ77ZzUk.jpg";
+                return View();
             }
             else
-            {                
-                return View(_productRepo.Get(u => u.Id == id));
+            {
+                Product productRepo = _productRepo.Get(u => u.Id == id);
+                TempData["UpsertTitle"] = "Edytuj";
+                TempData["UpsertConfirmButton"] = "Zapisz";
+                TempData["ImageUrl"] = productRepo.ImageUrl;
+
+                return View(productRepo);
             }
         }
 
         [HttpPost]
-        public IActionResult Upsert(Product obj, IFormFile? file)
-        {
+        public IActionResult Upsert(Product productVM, IFormFile? file)
+        {            
             if (ModelState.IsValid)
             {
-                _productRepo.Add(obj);
+                string wwwRootPath = _webHostEnvironment.WebRootPath;
+
+                if (file != null)
+                {
+                    string fileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
+                    string productPath = Path.Combine(wwwRootPath, @"images\product");
+
+                    using (var fileStream = new FileStream(Path.Combine(productPath, fileName), FileMode.Create))
+                    {
+                        file.CopyTo(fileStream);
+                    }
+                    
+                    productVM.ImageUrl = @"\images\product\" + fileName;                    
+                }                
+
+                _productRepo.Add(productVM);
                 _productRepo.Save();
                 TempData["success"] = "Nowa kategoria została utworzona pomyślnie";
 

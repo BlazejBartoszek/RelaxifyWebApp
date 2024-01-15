@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {}
+    "C:\\Users\\Bodzio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb.Utility\\RelaxifyEventRentWeb.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb.Utility\\RelaxifyEventRentWeb.Utility.csproj",
       "projectName": "RelaxifyEventRentWeb.Utility",
-      "projectPath": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb.Utility\\RelaxifyEventRentWeb.Utility.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb.Utility\\obj\\",
+      "projectPath": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb.Utility\\RelaxifyEventRentWeb.Utility.csproj",
+      "packagesPath": "C:\\Users\\Bodzio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bodzio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
