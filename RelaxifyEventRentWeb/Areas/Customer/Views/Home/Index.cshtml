@@ -1,6 +1,39 @@
-﻿
-<div class="text-md-center">
-    <h1>Wypożyczalnia sprzętu eventowego </h1>
-    <hr />
-    <img src="https://scontent-waw1-1.xx.fbcdn.net/v/t39.30808-6/386089362_122102724944066842_1052884823029585538_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=XmjB7ycsGFcAX-8Rp6m&_nc_ht=scontent-waw1-1.xx&oh=00_AfA0RliwuP1RLor2gS3UJtrewBZkFeXko3S97SNPPpOo8Q&oe=65A03123" width="500" height="375">
+﻿@model IEnumerable<Product>
+
+<div class="row float-lg-start">
+    <ul class="nav nav-pills flex-column">
+        <li class="nav-item text-bg-dark p-2">
+            <a>Wybierz kategorię</a>
+        </li>
+        @foreach (var item in Model)
+        {
+            <li class="nav-item">
+                <a class="nav-link btn btn-light" href="#">@item.Category.Name</a>
+            </li>
+        }                
+    </ul>
+ </div>
+<div class="row pb-3 pt-5">
+    
+    @foreach (var product in Model)
+    {
+        <div class="col-lg-3 col-sm-6">            
+            <div class="row p-2">                
+                <div class="col-12 p-2">                    
+                    <a asp-action="Details" asp-route-productId="@product.Id" class="btn btn-light text-uppercase card border-0 shadow rounded" style="height: 400px">
+                        <div style="max-height: 400px"><img src="@product.ImageUrl" class="card-img-top rounded"/></div>
+                        <div class="card-body ">                            
+                            <div class="pl-1">
+                                    <p class="card-title h5 text-dark opacity-75 text-uppercase text-center text-decoration-none">@product.ProductName</p>
+                                <p class="card-title text-warning text-center text-decoration-none">@product.Category.Name<b></b></p>
+                            </div>
+                            <div class="pl-1">
+                                <p class="text-dark text-center">@product.Price.ToString("c")</p>
+                            </div>
+                        </div> 
+                    </a>
+                </div>
+            </div>
+        </div>
+    }
 </div>

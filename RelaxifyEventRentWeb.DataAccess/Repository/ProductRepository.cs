@@ -19,7 +19,20 @@ namespace RelaxifyEventRentWeb.DataAccess.Repository
 
         public void Update(Product obj)
         {
-            _db.Product.Update(obj);
+            var objFromDb = _db.Product.FirstOrDefault(u => u.Id == obj.Id);
+
+            if (objFromDb != null)
+            {
+                objFromDb.Price = obj.Price;
+                objFromDb.ProductName = obj.ProductName;                
+                objFromDb.Description = obj.Description;
+                objFromDb.CategoryId = obj.CategoryId;
+
+                if (obj.ImageUrl != null)
+                {
+                    objFromDb.ImageUrl = obj.ImageUrl;
+                }
+            }
         }
     }
 }

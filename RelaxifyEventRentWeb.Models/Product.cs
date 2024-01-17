@@ -8,7 +8,7 @@ namespace RelaxifyEventRentWeb.Models
     {
         [Key]
         public int Id { get; set; }
-        [Required(ErrorMessage = "To pole jest wymagane")]        
+        [Required(ErrorMessage = "To pole jest wymagane")]    
         [MaxLength(30)]
         [DisplayName("Nazwa przedmiotu")]
         public string? ProductName { get; set; }

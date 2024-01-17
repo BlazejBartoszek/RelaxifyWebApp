@@ -16,15 +16,13 @@ namespace RelaxifyEventRentWeb.Areas.Admin.Controllers
             _categoryRepo = dbC;
             _productRepo = dbP;
             _webHostEnvironment = webHostEnvironment;
-        }       
+        }
 
         public IActionResult Index()
         {
-            List<Product> objCategoryList = _productRepo.GetAll().ToList();
+            List<Product> objProductList = _productRepo.GetAll(includeProperties: "Category").ToList();
 
-            TempData["ImageUrl"] = "\\images\\product\\1a5c43f3-dc8a-4413-8c0b-1ee05905a0fd.jpg";
-
-            return View(objCategoryList);
+            return View(objProductList);
         }
 
         public IActionResult Upsert(int? id)
@@ -35,13 +33,13 @@ namespace RelaxifyEventRentWeb.Areas.Admin.Controllers
                 Value = u.Id.ToString()
             });
 
-            ViewBag.CategoryList = CategoryList;            
+            ViewBag.CategoryList = CategoryList;
 
-            if (id==null || id==0)
+            if (id == null || id == 0)
             {
                 TempData["UpsertTitle"] = "Utwórz";
                 TempData["UpsertConfirmButton"] = "Utwórz";
-                TempData["ImageUrl"] = "https://as1.ftcdn.net/v2/jpg/02/57/42/72/1000_F_257427286_Lp7c9XdPnvN46TyFKqUaZpPADJ77ZzUk.jpg";
+                TempData["ImageUrl"] = "https://placehold.co/500x600";
                 return View();
             }
             else
@@ -57,7 +55,7 @@ namespace RelaxifyEventRentWeb.Areas.Admin.Controllers
 
         [HttpPost]
         public IActionResult Upsert(Product productVM, IFormFile? file)
-        {            
+        {
             if (ModelState.IsValid)
             {
                 string wwwRootPath = _webHostEnvironment.WebRootPath;
@@ -67,56 +65,82 @@ namespace RelaxifyEventRentWeb.Areas.Admin.Controllers
                     string fileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
                     string productPath = Path.Combine(wwwRootPath, @"images\product");
 
+                    if (!string.IsNullOrEmpty(productVM.ImageUrl))
+                    {
+                        var oldImagePath = Path.Combine(wwwRootPath, productVM.ImageUrl.TrimStart('\\'));
+
+                        if (System.IO.File.Exists(oldImagePath))
+                        {
+                            System.IO.File.Delete(oldImagePath);
+                        }
+                    }
+
                     using (var fileStream = new FileStream(Path.Combine(productPath, fileName), FileMode.Create))
                     {
                         file.CopyTo(fileStream);
                     }
-                    
-                    productVM.ImageUrl = @"\images\product\" + fileName;                    
+
+                    productVM.ImageUrl = @"\images\product\" + fileName;
                 }                
 
-                _productRepo.Add(productVM);
+                if (productVM.Id == 0)
+                {
+                    if (file == null)
+                    {
+                        productVM.ImageUrl = "https://placehold.co/500x600";
+                    }
+                    
+                    _productRepo.Add(productVM);
+                    TempData["success"] = "Nowa kategoria została utworzona pomyślnie";
+                }
+                else
+                {
+                    _productRepo.Update(productVM);
+                    TempData["success"] = "Nowa kategoria została zmodyfikowana pomyślnie";
+                }
+
                 _productRepo.Save();
-                TempData["success"] = "Nowa kategoria została utworzona pomyślnie";
+
 
                 return RedirectToAction("Index");
             }
 
             return View();
-        }               
+        }
 
+        #region API CALLS
+        [HttpGet]
+        public IActionResult GetAll()
+        {
+            List<Product> objProductList = _productRepo.GetAll(includeProperties: "Category").ToList();
+
+            return Json(new { data = objProductList });
+        }
+
+        [HttpDelete]
         public IActionResult Delete(int? id)
         {
-            if (id == null || id == 0)
+            Product productToBeDeleted = _productRepo.Get(u => u.Id == id);
+
+            if (productToBeDeleted == null)
             {
-                return NotFound();
+                return Json(new { success = false, message = "Wystąpił problem podczas usuwania" });
             }
 
-            Product? categoryFromDb = _productRepo.Get(u => u.Id == id);
+            var oldImagePath = Path.Combine(_webHostEnvironment.WebRootPath, productToBeDeleted.ImageUrl.TrimStart('\\'));
 
-            if (categoryFromDb == null)
+            if (System.IO.File.Exists(oldImagePath))
             {
-                return NotFound();
+                System.IO.File.Delete(oldImagePath);
             }
 
-            return View(categoryFromDb);
-        }
-
-        [HttpPost, ActionName("Delete")]
-        public IActionResult DeletePost(int? id)
-        {
-            Product? categoryFromDb = _productRepo.Get(u => u.Id == id);
-
-            if (categoryFromDb == null)
-            {
-                return NotFound();
-            }
-
-            _productRepo.Remove(categoryFromDb);
+            _productRepo.Remove(productToBeDeleted);
             _productRepo.Save();
-            TempData["success"] = "Kategoria została usunięta pomyślnie";
 
-            return RedirectToAction("Index");
+            List<Product> objProductList = _productRepo.GetAll(includeProperties: "Category").ToList();
+
+            return Json(new { data = objProductList });
         }
+        #endregion
     }
 }
