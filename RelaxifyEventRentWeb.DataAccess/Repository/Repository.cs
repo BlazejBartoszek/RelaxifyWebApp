@@ -44,7 +44,7 @@ public class Repository<T> : IRepository<T> where T : class
         if (!string.IsNullOrEmpty(includeProperties))
         {
             foreach (var includeProp in includeProperties
-                .Split(new char[] {','}, StringSplitOptions.RemoveEmptyEntries))
+                .Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
             {
                 query = query.Include(includeProp);
             }
@@ -62,5 +62,6 @@ public class Repository<T> : IRepository<T> where T : class
     {
         dbSet.RemoveRange(entity);
     }
+
 }
 

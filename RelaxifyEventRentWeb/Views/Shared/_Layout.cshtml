@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />    
@@ -13,155 +14,76 @@
     <link rel="stylesheet" href="//cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3 position-fixed" style="width:100%">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Relaxify</a>
-                <a class="nav-link p-lg-3" asp-area="" asp-controller="Home" asp-action="Index">Wypożyczalnia</a>                
-                <div class="navbar-collapse collapse d-sm-inline-flex">
-                    <ul class="navbar-nav flex-grow-1">                        
-                       
-                        <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Zarządzaj zawartością
-                        </a>
-                        <ul class="dropdown-menu">
-                                <li class="nav-item">
-                                    <a class="nav-link text-dark" asp-area="Admin" asp-controller="Category" asp-action="Index">Lista Kategorii</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link text-dark" asp-area="Admin" asp-controller="Product" asp-action="Index">Lista Produktów</a>
-                                </li>                           
-                        </ul>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
+    <header class="pb-2">
+        @await Component.InvokeAsync("MenuCategoryList");
     </header>
     <div class="container">
-        <main role="main" class="pb-3">
+        <main role="main" class="pb-3 mt-5 pt-5">
             <partial name="_Notification" />
             @RenderBody()
         </main>
     </div>
 
-    <footer class="text-center text-lg-start text-dark"
-            style="background-color: #ECEFF1">
-        <!-- Section: Social media -->
-        <section class="d-flex justify-content-between p-4 text-white text-warning"
-                 style="background-color: #21D192">
-            <!-- Left -->
-            <div class="me-5">
-                <span>Get connected with us on social networks:</span>
-            </div>
-            <!-- Left -->
-            <!-- Right -->
-            <div>
-                <a href="" class="text-white me-4">
-                    <i class="fab fa-facebook-f"></i>
-                </a>
-                <a href="" class="text-white me-4">
-                    <i class="fab fa-twitter"></i>
-                </a>
-                <a href="" class="text-white me-4">
-                    <i class="fab fa-google"></i>
-                </a>
-                <a href="" class="text-white me-4">
-                    <i class="fab fa-instagram"></i>
-                </a>
-                <a href="" class="text-white me-4">
-                    <i class="fab fa-linkedin"></i>
-                </a>
-                <a href="" class="text-white me-4">
-                    <i class="fab fa-github"></i>
-                </a>
-            </div>
-            <!-- Right -->
-        </section>
-        <!-- Section: Social media -->
-        <!-- Section: Links  -->
-        <section class="">
-            <div class="container text-center text-md-start mt-5">
-                <!-- Grid row -->
-                <div class="row mt-3">
-                    <!-- Grid column -->
-                    <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
-                        <!-- Content -->
-                        <h6 class="text-uppercase fw-bold">Company name</h6>
-                        <hr class="mb-4 mt-0 d-inline-block mx-auto"
-                            style="width: 60px; background-color: #7c4dff; height: 2px" />
-                        <p>
-                            Here you can use rows and columns to organize your footer
-                            content. Lorem ipsum dolor sit amet, consectetur adipisicing
-                            elit.
-                        </p>
+    <footer class="text-center text-lg-start shadow rounded mt-5" style="background-color: white;">
+        <!-- Grid container -->
+        <div class="container p-4">
+            <!--Grid row-->
+            <div class="row mt-4">
+                <!--Grid column-->
+                <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
+                    <h5 class="text-uppercase mb-4">O nas</h5>
+
+                    <p>
+                        Nasza pasja do projektowania przestrzeni relaksu jest nieograniczona. Tworzymy unikalne miejsca, gdzie każdy szczegół jest dopracowany, aby zapewnić nie tylko komfort, ale także niepowtarzalny klimat.
+                    </p>
+
+                    <p>
+                        Bez względu na to, czy planujesz kameralne spotkanie, wielką uroczystość czy firmowy event, jesteśmy gotowi uczynić każdą chwilę wyjątkową.
+                    </p>
+
+                    <div class="mt-4">                        
+                        <a type="button" href="" class="btn btn-floating btn-light btn-lg"><i class="bi bi-instagram"></i></a>                        
+                        <a type="button" href="https://www.facebook.com/relaxifypolska" class="btn btn-floating btn-light btn-lg"><i class="bi bi-facebook"></i></a>
+
                     </div>
-                    <!-- Grid column -->
-                    <!-- Grid column -->
-                    <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-                        <!-- Links -->
-                        <h6 class="text-uppercase fw-bold">Products</h6>
-                        <hr class="mb-4 mt-0 d-inline-block mx-auto"
-                            style="width: 60px; background-color: #7c4dff; height: 2px" />
-                        <p>
-                            <a href="#!" class="text-dark">MDBootstrap</a>
-                        </p>
-                        <p>
-                            <a href="#!" class="text-dark">MDWordPress</a>
-                        </p>
-                        <p>
-                            <a href="#!" class="text-dark">BrandFlow</a>
-                        </p>
-                        <p>
-                            <a href="#!" class="text-dark">Bootstrap Angular</a>
-                        </p>
+                </div>                
+                <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
+                    <h5 class="text-uppercase mb-4 pb-1">Zamówienia i wyceny</h5>                   
+
+                    <ul class="fa-ul" style="margin-left: 1.65em;">
+                        <li class="mb-3">
+                            <span class="fa-li"><i class="fas fa-envelope"></i></span><span class="ms-2">biuro@relaxifypolska.pl</span>
+                        </li>
+                        <li class="mb-3">
+                            <span class="fa-li"><i class="fas fa-phone"></i></span><span class="ms-2">+ 48 503 465 302</span>
+                        </li>
+                    </ul>
+
+                    <h5 class="text-uppercase mb-4 pb-1 pt-4">Zapraszamy do biura!</h5>
+                    <ul class="fa-ul" style="margin-left: 1.65em;">
+                        <li class="mb-3">
+                            <span class="fa-li"><i class="fas fa-home"></i></span><span class="ms-2">ul.Dworcowa 7,</span>
+                            <span class="pt-3"><br />Świdnik 20-040</span>
+                        </li>                        
+                        <li class="mb-3">
+                            <span class="fa-li"><i class="fas fa-phone"></i></span><span class="ms-2">+ 48 503 465 302</span>
+                        </li>
+                    </ul>
+                </div>             
+                <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
+                    <h5 class="text-uppercase mb-4">Zapisz się na nasz newsletter</h5>
+
+                    <div class="form-outline form-white mb-4">
+                        <input type="email" id="form5Example2" class="form-control" />
+                        <label class="form-label" for="form5Example2">Twój adres Email</label>
                     </div>
-                    <!-- Grid column -->
-                    <!-- Grid column -->
-                    <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
-                        <!-- Links -->
-                        <h6 class="text-uppercase fw-bold">Useful links</h6>
-                        <hr class="mb-4 mt-0 d-inline-block mx-auto"
-                            style="width: 60px; background-color: #7c4dff; height: 2px" />
-                        <p>
-                            <a href="#!" class="text-dark">Your Account</a>
-                        </p>
-                        <p>
-                            <a href="#!" class="text-dark">Become an Affiliate</a>
-                        </p>
-                        <p>
-                            <a href="#!" class="text-dark">Shipping Rates</a>
-                        </p>
-                        <p>
-                            <a href="#!" class="text-dark">Help</a>
-                        </p>
-                    </div>
-                    <!-- Grid column -->
-                    <!-- Grid column -->
-                    <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
-                        <!-- Links -->
-                        <h6 class="text-uppercase fw-bold">Contact</h6>
-                        <hr class="mb-4 mt-0 d-inline-block mx-auto"
-                            style="width: 60px; background-color: #7c4dff; height: 2px" />
-                        <p><i class="fas fa-home mr-3"></i> New York, NY 10012, US</p>
-                        <p><i class="fas fa-envelope mr-3"></i> info@example.com</p>
-                        <p><i class="fas fa-phone mr-3"></i> + 01 234 567 88</p>
-                        <p><i class="fas fa-print mr-3"></i> + 01 234 567 89</p>
-                    </div>
-                    <!-- Grid column -->
+
+                    <button type="submit" class="btn btn-outline-dark btn-block">Zapisuję się!</button>
                 </div>
-                <!-- Grid row -->
+                <!--Grid column-->
             </div>
-        </section>
-        <!-- Section: Links  -->
-        <!-- Copyright -->
-        <div class="text-center p-3"
-             style="background-color: rgba(0, 0, 0, 0.2)">
-            © 2020 Copyright:
-            <a class="text-dark" href="https://mdbootstrap.com/">MDBootstrap.com</a>
-        </div>
-        <!-- Copyright -->
+            <!--Grid row-->
+        </div>        
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

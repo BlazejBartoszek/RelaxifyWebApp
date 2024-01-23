@@ -24,7 +24,7 @@ namespace RelaxifyEventRentWeb.DataAccess.Repository
             if (objFromDb != null)
             {
                 objFromDb.Price = obj.Price;
-                objFromDb.ProductName = obj.ProductName;                
+                objFromDb.ProductName = obj.ProductName;
                 objFromDb.Description = obj.Description;
                 objFromDb.CategoryId = obj.CategoryId;
 
@@ -33,6 +33,11 @@ namespace RelaxifyEventRentWeb.DataAccess.Repository
                     objFromDb.ImageUrl = obj.ImageUrl;
                 }
             }
+        }
+
+        public IEnumerable<Product> GetOneCategory(int? categoryId)
+        {
+            return _db.Product.Where(x => x.CategoryId == categoryId).ToList();
         }
     }
 }

@@ -1,0 +1,39 @@
+﻿@model List<Category>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+    <div class="container-fluid">
+        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Relaxify</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+            <div class="dropdown me-auto">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                    Wypożyczalnia
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton2" style="width:100%">
+
+                    @foreach (var category in Model)
+                    {
+                        <li><a class="dropdown-item border-bottom" asp-controller="Home" asp-action="GetOneCategory" asp-route-categoryId="@category.Id">@category.Name</a></li>
+                    }
+
+                </ul>
+            </div>
+
+            @if (User.IsInRole(SD.Role_Admin))
+            {
+                <div class="dropdown me-sm-2">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                        Zarządzaj zawartością
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton2" style="width:100%">
+                        <li><a class="dropdown-item border-bottom" asp-area="Admin" asp-controller="Category" asp-action="Index">Lista Kategorii</a></li>
+                        <li><a class="dropdown-item" asp-area="Admin" asp-controller="Product" asp-action="Index">Lista Produktów</a></li>
+                    </ul>
+                </div>
+            }
+        </div>
+        <partial name="_LoginPartial" />
+    </div>
+</nav>

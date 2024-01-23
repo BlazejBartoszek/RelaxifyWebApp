@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Product>
+
+<div class="well full-width" style="padding-left: 40px; padding-right: 40px;">
+    <div class="row">
+    <div class="col-2">
+@await Component.InvokeAsync("BodyCategoryList");
+    </div>
+
+    <div class="col-10">
+
+    <div class="row pb-3 pt-5">
+@foreach (var product in Model)
+{
+    <div class="col-lg-3 col-sm-6">
+        <div class="row p-2">
+            <div class="col-12 p-2">
+                <a asp-action="Details" asp-route-productId="@product.Id" class="btn btn-light text-uppercase card border-0 shadow rounded" style="height: 600px">
+                    <div style="height: 400px"><img src="@product.ImageUrl" class="card-img-top rounded" /></div>
+                    <div class="card-body ">
+                        <div class="pl-1">
+                            <p class="card-title h5 text-dark opacity-75 text-uppercase text-center text-decoration-none">@product.ProductName</p>
+                                        <p class="card-title text-warning text-center text-decoration-none">@product.Category.Name<b></b></p>
+                        </div>
+                        <div class="pl-1">
+                            <p class="text-dark text-center">@product.Price.ToString("c")</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+}
+</div>
+</div>
+</div>
+</div>

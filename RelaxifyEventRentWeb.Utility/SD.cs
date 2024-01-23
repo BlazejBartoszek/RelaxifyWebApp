@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace RelaxifyEventRentWeb.Utility
+﻿namespace RelaxifyEventRentWeb.Utility
 {
-    internal class SD
+    public class SD
     {
+        public const string Role_Customer = "Customer";        
+        public const string Role_Admin = "Admin";        
     }
 }

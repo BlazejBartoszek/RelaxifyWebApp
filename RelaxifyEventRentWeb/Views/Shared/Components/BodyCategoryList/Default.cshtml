@@ -1,0 +1,15 @@
+﻿@model List<Category>
+
+<div class="row p-2 rounded-2">
+    <ul class="nav flex-column">
+        <li class="nav-item rounded p-2 mb-4">
+            <h3>KATEGORIE</h3>
+        </li>
+        @foreach (var category in Model)
+        {
+            <li class="nav-item">                
+                <a class="btn btn-light border-bottom" style="width: 100%; text-align:left" asp-controller="Home" asp-action="GetOneCategory" asp-route-categoryId="@category.Id">@category.Name</a>
+            </li>
+        }        
+    </ul>
+</div>

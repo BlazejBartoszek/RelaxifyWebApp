@@ -1,9 +1,11 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using RelaxifyEventRentWeb.Models;
 
 namespace RelaxifyEventRentWeb.DataAccess.Data
 {
-    public class ApplicationDbContext : DbContext
+    public class ApplicationDbContext : IdentityDbContext<IdentityUser>
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
@@ -12,9 +14,12 @@ namespace RelaxifyEventRentWeb.DataAccess.Data
 
         public DbSet<Category> Category { get; set; }
         public DbSet<Product> Product { get; set; }
+        public DbSet<ApplicationUser> ApplicationUsers { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
+
             modelBuilder.Entity<Category>().HasData(
                 new Category { Id = 1, Name = "Namioty", DisplayOrder = 1 },
                 new Category { Id = 2, Name = "Podłoga do namiotów", DisplayOrder = 1 },
@@ -57,7 +62,7 @@ namespace RelaxifyEventRentWeb.DataAccess.Data
                       Description = "Podesty sceniczne allustage idealne na Twoje wydarzenia",
                       Price = 30,
                       CategoryId = 10,
-                      ImageUrl=""
+                      ImageUrl = ""
                   },
                    new Product
                    {
@@ -67,7 +72,7 @@ namespace RelaxifyEventRentWeb.DataAccess.Data
                        Price = 2760,
                        CategoryId = 1,
                        ImageUrl = ""
-                   }                    
+                   }
                 );
         }
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RelaxifyEventRentWeb.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bcf8be04a4cc15506dedb152291ea41a2026258")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e01253914f949647dc7fe6c11f52d95db298375d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RelaxifyEventRentWeb.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RelaxifyEventRentWeb.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,23 +14,27 @@ namespace RelaxifyEventRentWeb.Areas.Customer.Controllers
         public HomeController(ICategoryRepository dbC, IProductRepository dbP)
         {
             _categoryRepo = dbC;
-            _productRepo = dbP;            
+            _productRepo = dbP;
         }
         public IActionResult Index()
         {
-            IEnumerable<Product> productList = _productRepo.GetAll(includeProperties:"Category");            
-            return View(productList);
+            IEnumerable<Product> productListFromDb = _productRepo.GetAll(includeProperties: "Category");
+
+            return View(productListFromDb);
         }
 
         public IActionResult Details(int productId)
         {
-            Product product = _productRepo.Get(u => u.Id==productId, includeProperties: "Category");
+            Product product = _productRepo.Get(u => u.Id == productId, includeProperties: "Category");
             return View(product);
         }
 
-        public IActionResult Privacy()
+        [HttpGet]
+        public IActionResult GetOneCategory(int? categoryId)
         {
-            return View();
+            IEnumerable<Product> OneCategoryProductList = _productRepo.GetOneCategory(categoryId);
+
+            return View(OneCategoryProductList);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

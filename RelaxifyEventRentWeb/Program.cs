@@ -2,6 +2,9 @@ using Microsoft.EntityFrameworkCore;
 using RelaxifyEventRentWeb.DataAccess.Data;
 using RelaxifyEventRentWeb.DataAccess.Repository;
 using RelaxifyEventRentWeb.DataAccess.Repository.IRepository;
+using Microsoft.AspNetCore.Identity;
+using RelaxifyEventRentWeb.Utility;
+using Microsoft.AspNetCore.Identity.UI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,8 +15,18 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<ApplicationDbContext>(options=>
     options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 
+builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
+builder.Services.ConfigureApplicationCookie(options => {
+    options.LoginPath = $"/Identity/Account/Login";
+    options.LoginPath = $"/Identity/Account/Logout";
+    options.LoginPath = $"/Identity/Account/AccessDenied";
+});
+
+builder.Services.AddRazorPages();
+
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IEmailSender, EmailSender>();
 
 var app = builder.Build();
 
@@ -29,8 +42,9 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseAuthentication();
 app.UseAuthorization();
+app.MapRazorPages();
 
 app.MapControllerRoute(
     name: "default",

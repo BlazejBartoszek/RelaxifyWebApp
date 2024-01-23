@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\images\\product\\1a5c43f3-dc8a-4413-8c0b-1ee05905a0fd.jpg"
     },
     {
+      "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\1e76903c-c073-4f9d-b3c9-394e309915fb.png",
+      "PackagePath": "staticwebassets\\images\\product\\1e76903c-c073-4f9d-b3c9-394e309915fb.png"
+    },
+    {
       "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\25126b12-142b-4d76-822b-63a0696c26a0.jpg",
       "PackagePath": "staticwebassets\\images\\product\\25126b12-142b-4d76-822b-63a0696c26a0.jpg"
     },
@@ -53,8 +57,16 @@
       "PackagePath": "staticwebassets\\images\\product\\406acb01-82b7-4a02-b0f9-6ecf7631da43.png"
     },
     {
+      "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\5116453e-8b51-493f-85cf-4329773e69e9.png",
+      "PackagePath": "staticwebassets\\images\\product\\5116453e-8b51-493f-85cf-4329773e69e9.png"
+    },
+    {
       "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\602ca5f5-8d03-40d4-8b9a-752c547d2583.jpg",
       "PackagePath": "staticwebassets\\images\\product\\602ca5f5-8d03-40d4-8b9a-752c547d2583.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\61629bd0-c826-4cce-8d1a-e27c9167ad3b.png",
+      "PackagePath": "staticwebassets\\images\\product\\61629bd0-c826-4cce-8d1a-e27c9167ad3b.png"
     },
     {
       "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\6652e65c-89db-4393-af03-a4afd2a0ccb3.png",
@@ -79,10 +91,6 @@
     {
       "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\89f41db4-0299-40f0-b453-925b38876d1a.JPEG",
       "PackagePath": "staticwebassets\\images\\product\\89f41db4-0299-40f0-b453-925b38876d1a.JPEG"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\8d402f1c-0277-4db5-86b5-8017594c933c.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\8d402f1c-0277-4db5-86b5-8017594c933c.jpg"
     },
     {
       "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\955d0d7c-d27f-4e06-a795-e9d0bbffd09a.png",
@@ -113,16 +121,12 @@
       "PackagePath": "staticwebassets\\images\\product\\b9858ebd-15b6-44a5-8ebd-108a6fcd4181.png"
     },
     {
-      "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\bea31bcb-108b-4031-bab0-9625bb2ff006.jfif",
-      "PackagePath": "staticwebassets\\images\\product\\bea31bcb-108b-4031-bab0-9625bb2ff006.jfif"
+      "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\be31e16c-a4b4-4378-95b3-2b08a991678b.jfif",
+      "PackagePath": "staticwebassets\\images\\product\\be31e16c-a4b4-4378-95b3-2b08a991678b.jfif"
     },
     {
       "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\bf01e0cc-bfbc-4de0-93ff-18356d99c9ee.jpg",
       "PackagePath": "staticwebassets\\images\\product\\bf01e0cc-bfbc-4de0-93ff-18356d99c9ee.jpg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\cef7aa12-355a-41bf-87cd-77204d716ff7.png",
-      "PackagePath": "staticwebassets\\images\\product\\cef7aa12-355a-41bf-87cd-77204d716ff7.png"
     },
     {
       "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\d387679b-a40b-4093-aa76-73fffece7d5f.png",
@@ -137,8 +141,8 @@
       "PackagePath": "staticwebassets\\images\\product\\dadb8567-3806-42d9-8961-44fe9c6b86bd.png"
     },
     {
-      "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\dd523dea-cc7b-44d2-9cbf-2af38bee1d7a.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\dd523dea-cc7b-44d2-9cbf-2af38bee1d7a.jpg"
+      "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\db8bf8d5-d0dd-4c88-8a7a-4d42066bd507.png",
+      "PackagePath": "staticwebassets\\images\\product\\db8bf8d5-d0dd-4c88-8a7a-4d42066bd507.png"
     },
     {
       "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\e0e4a866-7598-405d-b6d1-a5671e074953.png",
@@ -167,6 +171,10 @@
     {
       "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\f7556607-547e-4caa-b3ba-f23a2c4ac59f.jfif",
       "PackagePath": "staticwebassets\\images\\product\\f7556607-547e-4caa-b3ba-f23a2c4ac59f.jfif"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\f8b397ad-6305-4142-8d3d-e364036aab6b.png",
+      "PackagePath": "staticwebassets\\images\\product\\f8b397ad-6305-4142-8d3d-e364036aab6b.png"
     },
     {
       "Id": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\js\\product.js",

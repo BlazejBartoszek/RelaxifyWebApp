@@ -1,11 +1,14 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using RelaxifyEventRentWeb.DataAccess.Repository.IRepository;
 using RelaxifyEventRentWeb.Models;
+using RelaxifyEventRentWeb.Utility;
 
 namespace RelaxifyEventRentWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class ProductController : Controller
     {
         private readonly IProductRepository _productRepo;
@@ -81,7 +84,7 @@ namespace RelaxifyEventRentWeb.Areas.Admin.Controllers
                     }
 
                     productVM.ImageUrl = @"\images\product\" + fileName;
-                }                
+                }
 
                 if (productVM.Id == 0)
                 {
@@ -89,7 +92,7 @@ namespace RelaxifyEventRentWeb.Areas.Admin.Controllers
                     {
                         productVM.ImageUrl = "https://placehold.co/500x600";
                     }
-                    
+
                     _productRepo.Add(productVM);
                     TempData["success"] = "Nowa kategoria została utworzona pomyślnie";
                 }
