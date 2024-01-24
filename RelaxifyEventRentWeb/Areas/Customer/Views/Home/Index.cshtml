@@ -1,6 +1,6 @@
 ﻿@model IEnumerable<Product>
 
-<div class="well full-width" style="padding-left: 40px; padding-right: 40px;">    
+<div class="well full-width" style="padding-left: 100px; padding-right: 200px;">    
     <div class="row">
 
         <div class="col-2">
@@ -15,8 +15,8 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="row p-2">
                             <div class="col-12 p-2">
-                                <a asp-action="Details" asp-route-productId="@product.Id" class="btn btn-light text-uppercase card border-0 shadow rounded" style="height: 600px">
-                                    <div style="height: 400px"><img src="@product.ImageUrl" class="card-img-top rounded" /></div>
+                                <a asp-action="Details" asp-route-productId="@product.Id" class="btn btn-light text-uppercase card border-0 shadow rounded-5" style="height: 500px">
+                                    <div style="height: 400px"><img src="@product.ImageUrl" class="card-img-top rounded-5" /></div>
                                     <div class="card-body">
                                         <div class="pl-1">
                                             <p class="card-title h7 text-dark opacity-75 text-uppercase text-center text-decoration-none">@product.ProductName</p>
