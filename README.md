@@ -1,1 +1,44 @@
-# RelaxifyEventRentWeb
+# Relaxify Web Application
+
+> An example of a web application that can be used by a company that rents e.g. event furniture.
+
+## General Information
+- An application for presenting the assortment for rent.
+- An event company can more easily reach a larger audience.
+- A larger number of rental products.
+
+
+## Technologies Used
+- ASP.Net Core - version 8.0
+- MySql - version 8.0
+- EntityFrameworkCore - version 8.0
+- Identity - version 8.0
+
+
+## Features
+- creates new products and categories
+- displays products by category
+- module for logging in and registering new users divided into Client/Administrator roles
+
+
+## Screenshots
+### Basic view after entering the website
+![Relaxify](./Screenshots/indexwithoutlogin.png)
+### Administrator view after logging in - a new tab for managing store content is visible
+![Relaxify](./Screenshots/RelaxifyIndex.png)
+### New user registration view
+![Relaxify](./Screenshots/createNewAccount.png)
+### List of created products visible in the store
+![Relaxify](./Screenshots/productList.png)
+### View of creating a new product in the store
+![Relaxify](./Screenshots/createnewProduct.png)
+
+
+
+
+
+<!-- Optional -->
+<!-- ## License -->
+<!-- This project is open source and available under the [... License](). -->
+
+<!-- You don't have to include all sections - just the one's relevant to your project -->
