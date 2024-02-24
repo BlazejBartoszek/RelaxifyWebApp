@@ -1,6 +1,6 @@
 # Relaxify Web Application
 
-> An example of a web application that can be used by a company that rents e.g. event furniture.
+> An application for renting event equipment. Displays all products available in stock (names, descriptions, photos). It allows administrators to easily manage all content on the website, i.e. add, modify, delete products or categories.
 
 ## General Information
 - An application for presenting the assortment for rent.
