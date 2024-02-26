@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZCbcCT71xIkKcwkcV9zCS5Xd/uSDapPjTvPbHvs2RWA=",
+  "Hash": "UmDt9t7W1ZtEZoFSWVTORzrOaa7zKYVRw+495lLbqEo=",
   "Source": "RelaxifyEventRentWeb",
   "BasePath": "_content/RelaxifyEventRentWeb",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "RelaxifyEventRentWeb\\wwwroot",
       "Source": "RelaxifyEventRentWeb",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "QuickGrid.razor.js",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\css\\site.css",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\favicon.ico",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\favicon.ico",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\js\\site.js",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\js\\site.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -242,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -261,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -280,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -299,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -318,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -356,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -375,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -394,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -432,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -451,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -470,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -489,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -508,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -527,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -546,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -565,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -584,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -603,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -622,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -641,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -679,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -698,13 +698,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -717,13 +717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -736,13 +736,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -755,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -774,13 +774,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -793,13 +793,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -812,13 +812,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -831,13 +831,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -850,13 +850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -869,13 +869,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -888,13 +888,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -907,13 +907,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -926,13 +926,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -945,13 +945,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -964,13 +964,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1002,13 +1002,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1021,13 +1021,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1040,13 +1040,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1059,13 +1059,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1078,13 +1078,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1097,13 +1097,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1116,13 +1116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1135,13 +1135,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1154,13 +1154,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RelaxifyEventRentWeb.styles.css",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RelaxifyEventRentWeb.styles.css",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "RelaxifyEventRentWeb.styles.css",
       "AssetKind": "All",
@@ -1211,13 +1211,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RelaxifyEventRentWeb.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RelaxifyEventRentWeb.styles.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RelaxifyEventRentWeb.bundle.scp.css",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RelaxifyEventRentWeb.bundle.scp.css",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "RelaxifyEventRentWeb.bundle.scp.css",
       "AssetKind": "All",
@@ -1230,13 +1230,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RelaxifyEventRentWeb.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RelaxifyEventRentWeb.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\css\\site.css",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\favicon.ico",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\007850b8-03ef-429a-a36e-d3eac9d76c13.JPEG",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\007850b8-03ef-429a-a36e-d3eac9d76c13.JPEG",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/007850b8-03ef-429a-a36e-d3eac9d76c13.JPEG",
       "AssetKind": "All",
@@ -1290,10 +1290,29 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\007850b8-03ef-429a-a36e-d3eac9d76c13.JPEG"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\0d106d80-15f9-49b9-b97b-3530b78d7d05.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\03713063-5d02-4345-ac7b-96d93b8d8c89.jpg",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/03713063-5d02-4345-ac7b-96d93b8d8c89.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\03713063-5d02-4345-ac7b-96d93b8d8c89.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\0d106d80-15f9-49b9-b97b-3530b78d7d05.png",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/0d106d80-15f9-49b9-b97b-3530b78d7d05.png",
       "AssetKind": "All",
@@ -1309,10 +1328,29 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\0d106d80-15f9-49b9-b97b-3530b78d7d05.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\16bfd52a-599d-4193-aae8-ca3d9dd341cb.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\116fd561-e9e4-47fe-bc25-8dc0032caa10.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/116fd561-e9e4-47fe-bc25-8dc0032caa10.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\116fd561-e9e4-47fe-bc25-8dc0032caa10.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\16bfd52a-599d-4193-aae8-ca3d9dd341cb.png",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/16bfd52a-599d-4193-aae8-ca3d9dd341cb.png",
       "AssetKind": "All",
@@ -1328,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\16bfd52a-599d-4193-aae8-ca3d9dd341cb.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\1a5c43f3-dc8a-4413-8c0b-1ee05905a0fd.jpg",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\1a5c43f3-dc8a-4413-8c0b-1ee05905a0fd.jpg",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/1a5c43f3-dc8a-4413-8c0b-1ee05905a0fd.jpg",
       "AssetKind": "All",
@@ -1347,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\1a5c43f3-dc8a-4413-8c0b-1ee05905a0fd.jpg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\1e76903c-c073-4f9d-b3c9-394e309915fb.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\1e76903c-c073-4f9d-b3c9-394e309915fb.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/1e76903c-c073-4f9d-b3c9-394e309915fb.png",
       "AssetKind": "All",
@@ -1366,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\1e76903c-c073-4f9d-b3c9-394e309915fb.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\25126b12-142b-4d76-822b-63a0696c26a0.jpg",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\25126b12-142b-4d76-822b-63a0696c26a0.jpg",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/25126b12-142b-4d76-822b-63a0696c26a0.jpg",
       "AssetKind": "All",
@@ -1385,10 +1423,29 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\25126b12-142b-4d76-822b-63a0696c26a0.jpg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\2b9736ef-3865-442c-9053-5ad864943d27.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\25ffde50-8ace-449b-b38e-7f1cf03a5271.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/25ffde50-8ace-449b-b38e-7f1cf03a5271.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\25ffde50-8ace-449b-b38e-7f1cf03a5271.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\2b9736ef-3865-442c-9053-5ad864943d27.png",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/2b9736ef-3865-442c-9053-5ad864943d27.png",
       "AssetKind": "All",
@@ -1404,10 +1461,29 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\2b9736ef-3865-442c-9053-5ad864943d27.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\376fb485-8ce4-44d2-a022-ce2730468437.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\37397241-335f-42e9-9c9c-ccf281dabdab.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/37397241-335f-42e9-9c9c-ccf281dabdab.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\37397241-335f-42e9-9c9c-ccf281dabdab.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\376fb485-8ce4-44d2-a022-ce2730468437.png",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/376fb485-8ce4-44d2-a022-ce2730468437.png",
       "AssetKind": "All",
@@ -1423,10 +1499,29 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\376fb485-8ce4-44d2-a022-ce2730468437.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\3b2ac5e5-93fe-4f75-86fa-d2873e7becda.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\399b0d38-0501-4266-bf59-62a200d46524.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/399b0d38-0501-4266-bf59-62a200d46524.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\399b0d38-0501-4266-bf59-62a200d46524.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\3b2ac5e5-93fe-4f75-86fa-d2873e7becda.png",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/3b2ac5e5-93fe-4f75-86fa-d2873e7becda.png",
       "AssetKind": "All",
@@ -1442,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\3b2ac5e5-93fe-4f75-86fa-d2873e7becda.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\3b8b9d64-6654-4277-ba43-3909fe1b9daf.jpg",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\3b8b9d64-6654-4277-ba43-3909fe1b9daf.jpg",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/3b8b9d64-6654-4277-ba43-3909fe1b9daf.jpg",
       "AssetKind": "All",
@@ -1461,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\3b8b9d64-6654-4277-ba43-3909fe1b9daf.jpg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\406acb01-82b7-4a02-b0f9-6ecf7631da43.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\406acb01-82b7-4a02-b0f9-6ecf7631da43.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/406acb01-82b7-4a02-b0f9-6ecf7631da43.png",
       "AssetKind": "All",
@@ -1480,10 +1575,29 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\406acb01-82b7-4a02-b0f9-6ecf7631da43.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\5116453e-8b51-493f-85cf-4329773e69e9.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\5079c734-33db-4372-9163-bdc20720c783.JPG",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/5079c734-33db-4372-9163-bdc20720c783.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\5079c734-33db-4372-9163-bdc20720c783.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\5116453e-8b51-493f-85cf-4329773e69e9.png",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/5116453e-8b51-493f-85cf-4329773e69e9.png",
       "AssetKind": "All",
@@ -1499,10 +1613,48 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\5116453e-8b51-493f-85cf-4329773e69e9.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\602ca5f5-8d03-40d4-8b9a-752c547d2583.jpg",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\53c0dbf0-23f6-45c6-bc02-8301b227e198.JPG",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/53c0dbf0-23f6-45c6-bc02-8301b227e198.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\53c0dbf0-23f6-45c6-bc02-8301b227e198.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\56fb6d6e-8966-48e1-9239-a0f3f3eeccbf.jpg",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/56fb6d6e-8966-48e1-9239-a0f3f3eeccbf.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\56fb6d6e-8966-48e1-9239-a0f3f3eeccbf.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\602ca5f5-8d03-40d4-8b9a-752c547d2583.jpg",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/602ca5f5-8d03-40d4-8b9a-752c547d2583.jpg",
       "AssetKind": "All",
@@ -1518,10 +1670,29 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\602ca5f5-8d03-40d4-8b9a-752c547d2583.jpg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\61629bd0-c826-4cce-8d1a-e27c9167ad3b.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\60fe7fb7-6962-486a-8196-6d9e7918e9e5.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/60fe7fb7-6962-486a-8196-6d9e7918e9e5.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\60fe7fb7-6962-486a-8196-6d9e7918e9e5.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\61629bd0-c826-4cce-8d1a-e27c9167ad3b.png",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/61629bd0-c826-4cce-8d1a-e27c9167ad3b.png",
       "AssetKind": "All",
@@ -1537,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\61629bd0-c826-4cce-8d1a-e27c9167ad3b.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\6652e65c-89db-4393-af03-a4afd2a0ccb3.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\6652e65c-89db-4393-af03-a4afd2a0ccb3.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/6652e65c-89db-4393-af03-a4afd2a0ccb3.png",
       "AssetKind": "All",
@@ -1556,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\6652e65c-89db-4393-af03-a4afd2a0ccb3.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\66e2e9b9-c65a-4802-ba1a-866779452358.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\66e2e9b9-c65a-4802-ba1a-866779452358.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/66e2e9b9-c65a-4802-ba1a-866779452358.png",
       "AssetKind": "All",
@@ -1575,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\66e2e9b9-c65a-4802-ba1a-866779452358.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\75510e53-aebb-44ac-aaa7-a9a1ba67d31f.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\75510e53-aebb-44ac-aaa7-a9a1ba67d31f.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/75510e53-aebb-44ac-aaa7-a9a1ba67d31f.png",
       "AssetKind": "All",
@@ -1594,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\75510e53-aebb-44ac-aaa7-a9a1ba67d31f.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\79c79a58-ae18-4fd2-97f4-749a18d92e7b.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\79c79a58-ae18-4fd2-97f4-749a18d92e7b.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/79c79a58-ae18-4fd2-97f4-749a18d92e7b.png",
       "AssetKind": "All",
@@ -1613,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\79c79a58-ae18-4fd2-97f4-749a18d92e7b.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\8294e6e6-bc2c-4b40-b654-bde87e76bf24.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\8294e6e6-bc2c-4b40-b654-bde87e76bf24.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/8294e6e6-bc2c-4b40-b654-bde87e76bf24.png",
       "AssetKind": "All",
@@ -1632,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\8294e6e6-bc2c-4b40-b654-bde87e76bf24.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\89f41db4-0299-40f0-b453-925b38876d1a.JPEG",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\89f41db4-0299-40f0-b453-925b38876d1a.JPEG",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/89f41db4-0299-40f0-b453-925b38876d1a.JPEG",
       "AssetKind": "All",
@@ -1651,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\89f41db4-0299-40f0-b453-925b38876d1a.JPEG"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\955d0d7c-d27f-4e06-a795-e9d0bbffd09a.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\955d0d7c-d27f-4e06-a795-e9d0bbffd09a.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/955d0d7c-d27f-4e06-a795-e9d0bbffd09a.png",
       "AssetKind": "All",
@@ -1670,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\955d0d7c-d27f-4e06-a795-e9d0bbffd09a.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\9b8787a1-642b-4dfa-a263-60e853801d89.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\9b8787a1-642b-4dfa-a263-60e853801d89.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/9b8787a1-642b-4dfa-a263-60e853801d89.png",
       "AssetKind": "All",
@@ -1689,10 +1860,29 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\9b8787a1-642b-4dfa-a263-60e853801d89.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\acf3de11-cd84-424a-9abb-2cf22e391ae5.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\a8947071-c298-4533-af59-117ee6727e9a.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/a8947071-c298-4533-af59-117ee6727e9a.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\a8947071-c298-4533-af59-117ee6727e9a.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\acf3de11-cd84-424a-9abb-2cf22e391ae5.png",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/acf3de11-cd84-424a-9abb-2cf22e391ae5.png",
       "AssetKind": "All",
@@ -1708,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\acf3de11-cd84-424a-9abb-2cf22e391ae5.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\af600b5d-19c7-4c4b-98b1-1c1f4cd11ff5.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\af600b5d-19c7-4c4b-98b1-1c1f4cd11ff5.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/af600b5d-19c7-4c4b-98b1-1c1f4cd11ff5.png",
       "AssetKind": "All",
@@ -1727,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\af600b5d-19c7-4c4b-98b1-1c1f4cd11ff5.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\b02a3dd6-179c-49b8-9590-26896bbe3b41.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\b02a3dd6-179c-49b8-9590-26896bbe3b41.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/b02a3dd6-179c-49b8-9590-26896bbe3b41.png",
       "AssetKind": "All",
@@ -1746,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\b02a3dd6-179c-49b8-9590-26896bbe3b41.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\b20ca5cd-4681-43d3-93ed-bd2e403dbe78.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\b20ca5cd-4681-43d3-93ed-bd2e403dbe78.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/b20ca5cd-4681-43d3-93ed-bd2e403dbe78.png",
       "AssetKind": "All",
@@ -1765,10 +1955,29 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\b20ca5cd-4681-43d3-93ed-bd2e403dbe78.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\b9858ebd-15b6-44a5-8ebd-108a6fcd4181.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\b593801b-d989-4450-9310-2f7747cd990c.jpg",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/b593801b-d989-4450-9310-2f7747cd990c.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\b593801b-d989-4450-9310-2f7747cd990c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\b9858ebd-15b6-44a5-8ebd-108a6fcd4181.png",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/b9858ebd-15b6-44a5-8ebd-108a6fcd4181.png",
       "AssetKind": "All",
@@ -1784,10 +1993,29 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\b9858ebd-15b6-44a5-8ebd-108a6fcd4181.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\be31e16c-a4b4-4378-95b3-2b08a991678b.jfif",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\bdef7763-8aab-4e28-ba64-bbcc2dbcaa9f.jpg",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/bdef7763-8aab-4e28-ba64-bbcc2dbcaa9f.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\bdef7763-8aab-4e28-ba64-bbcc2dbcaa9f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\be31e16c-a4b4-4378-95b3-2b08a991678b.jfif",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/be31e16c-a4b4-4378-95b3-2b08a991678b.jfif",
       "AssetKind": "All",
@@ -1803,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\be31e16c-a4b4-4378-95b3-2b08a991678b.jfif"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\bf01e0cc-bfbc-4de0-93ff-18356d99c9ee.jpg",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\bf01e0cc-bfbc-4de0-93ff-18356d99c9ee.jpg",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/bf01e0cc-bfbc-4de0-93ff-18356d99c9ee.jpg",
       "AssetKind": "All",
@@ -1822,10 +2050,67 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\bf01e0cc-bfbc-4de0-93ff-18356d99c9ee.jpg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\d387679b-a40b-4093-aa76-73fffece7d5f.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\c186cf0d-6514-4061-ac61-2ec17e056997.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/c186cf0d-6514-4061-ac61-2ec17e056997.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\c186cf0d-6514-4061-ac61-2ec17e056997.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\cad3a0eb-31d6-475a-b6a8-956c2c32147f.png",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/cad3a0eb-31d6-475a-b6a8-956c2c32147f.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\cad3a0eb-31d6-475a-b6a8-956c2c32147f.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\cecac534-d5b6-4765-b5f9-9929c098bd9c.jpg",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/cecac534-d5b6-4765-b5f9-9929c098bd9c.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\cecac534-d5b6-4765-b5f9-9929c098bd9c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\d387679b-a40b-4093-aa76-73fffece7d5f.png",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/d387679b-a40b-4093-aa76-73fffece7d5f.png",
       "AssetKind": "All",
@@ -1841,10 +2126,29 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\d387679b-a40b-4093-aa76-73fffece7d5f.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\d6349e24-c2ff-4135-a825-3b970e36c13e.jpg",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\d47acf13-e40b-4c0d-9858-0128b094d65d.JPG",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/d47acf13-e40b-4c0d-9858-0128b094d65d.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\d47acf13-e40b-4c0d-9858-0128b094d65d.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\d6349e24-c2ff-4135-a825-3b970e36c13e.jpg",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/d6349e24-c2ff-4135-a825-3b970e36c13e.jpg",
       "AssetKind": "All",
@@ -1860,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\d6349e24-c2ff-4135-a825-3b970e36c13e.jpg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\dadb8567-3806-42d9-8961-44fe9c6b86bd.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\dadb8567-3806-42d9-8961-44fe9c6b86bd.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/dadb8567-3806-42d9-8961-44fe9c6b86bd.png",
       "AssetKind": "All",
@@ -1879,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\dadb8567-3806-42d9-8961-44fe9c6b86bd.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\db8bf8d5-d0dd-4c88-8a7a-4d42066bd507.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\db8bf8d5-d0dd-4c88-8a7a-4d42066bd507.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/db8bf8d5-d0dd-4c88-8a7a-4d42066bd507.png",
       "AssetKind": "All",
@@ -1898,10 +2202,29 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\db8bf8d5-d0dd-4c88-8a7a-4d42066bd507.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\e0e4a866-7598-405d-b6d1-a5671e074953.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\dd32e7df-ca82-416f-99b0-3696d5df518c.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/dd32e7df-ca82-416f-99b0-3696d5df518c.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\dd32e7df-ca82-416f-99b0-3696d5df518c.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\e0e4a866-7598-405d-b6d1-a5671e074953.png",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/e0e4a866-7598-405d-b6d1-a5671e074953.png",
       "AssetKind": "All",
@@ -1917,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\e0e4a866-7598-405d-b6d1-a5671e074953.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\e1e11b9f-bcb9-48e4-801d-098fe42ecc4c.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\e1e11b9f-bcb9-48e4-801d-098fe42ecc4c.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/e1e11b9f-bcb9-48e4-801d-098fe42ecc4c.png",
       "AssetKind": "All",
@@ -1936,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\e1e11b9f-bcb9-48e4-801d-098fe42ecc4c.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\e2ff470d-7212-4238-87c2-af667dc02971.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\e2ff470d-7212-4238-87c2-af667dc02971.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/e2ff470d-7212-4238-87c2-af667dc02971.png",
       "AssetKind": "All",
@@ -1955,10 +2278,29 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\e2ff470d-7212-4238-87c2-af667dc02971.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\ec005409-992d-429a-8562-76e0585b1bd3.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\e83eb5b8-123f-4ff6-97bd-883ec0b312d5.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/e83eb5b8-123f-4ff6-97bd-883ec0b312d5.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\e83eb5b8-123f-4ff6-97bd-883ec0b312d5.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\ec005409-992d-429a-8562-76e0585b1bd3.png",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/ec005409-992d-429a-8562-76e0585b1bd3.png",
       "AssetKind": "All",
@@ -1974,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\ec005409-992d-429a-8562-76e0585b1bd3.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\f33a55ee-e656-4326-8d4f-48a296770d90.jfif",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\f33a55ee-e656-4326-8d4f-48a296770d90.jfif",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/f33a55ee-e656-4326-8d4f-48a296770d90.jfif",
       "AssetKind": "All",
@@ -1993,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\f33a55ee-e656-4326-8d4f-48a296770d90.jfif"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\f4129ad5-ce3b-421c-8dd5-2a79f6e1c1e2.jpg",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\f4129ad5-ce3b-421c-8dd5-2a79f6e1c1e2.jpg",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/f4129ad5-ce3b-421c-8dd5-2a79f6e1c1e2.jpg",
       "AssetKind": "All",
@@ -2012,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\f4129ad5-ce3b-421c-8dd5-2a79f6e1c1e2.jpg"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\f7556607-547e-4caa-b3ba-f23a2c4ac59f.jfif",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\f7556607-547e-4caa-b3ba-f23a2c4ac59f.jfif",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/f7556607-547e-4caa-b3ba-f23a2c4ac59f.jfif",
       "AssetKind": "All",
@@ -2031,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\f7556607-547e-4caa-b3ba-f23a2c4ac59f.jfif"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\f8b397ad-6305-4142-8d3d-e364036aab6b.png",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\f8b397ad-6305-4142-8d3d-e364036aab6b.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "images/product/f8b397ad-6305-4142-8d3d-e364036aab6b.png",
       "AssetKind": "All",
@@ -2050,10 +2392,48 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\f8b397ad-6305-4142-8d3d-e364036aab6b.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\js\\product.js",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\fa6475af-f478-4c4c-bd09-88889c9a4ac8.png",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/fa6475af-f478-4c4c-bd09-88889c9a4ac8.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\fa6475af-f478-4c4c-bd09-88889c9a4ac8.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\images\\product\\fa906668-d82f-46f8-8d26-dff6b8ff73c6.png",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "BasePath": "_content/RelaxifyEventRentWeb",
+      "RelativePath": "images/product/fa906668-d82f-46f8-8d26-dff6b8ff73c6.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\fa906668-d82f-46f8-8d26-dff6b8ff73c6.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\js\\product.js",
+      "SourceId": "RelaxifyEventRentWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "js/product.js",
       "AssetKind": "All",
@@ -2069,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\js\\site.js",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2088,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2107,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2126,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2145,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2164,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2183,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2202,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2221,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2240,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2259,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2278,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2297,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2316,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2335,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2354,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2373,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2392,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2411,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2430,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2449,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2468,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2487,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2506,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2525,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2544,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2563,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2582,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2601,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2620,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2639,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2658,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2677,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2696,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2715,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2734,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2753,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2772,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2791,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2810,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2829,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2848,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2867,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2886,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2905,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2924,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2943,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2962,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2981,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3000,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3019,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3038,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3057,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3076,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3095,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3114,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3133,10 +3513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3152,10 +3532,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "RelaxifyEventRentWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\wwwroot\\",
       "BasePath": "_content/RelaxifyEventRentWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

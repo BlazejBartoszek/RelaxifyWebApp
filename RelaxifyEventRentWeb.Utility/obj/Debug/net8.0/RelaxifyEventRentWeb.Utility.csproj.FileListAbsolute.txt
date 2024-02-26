@@ -34,3 +34,4 @@ C:\Users\PC\Source\Repos\BlazejBartoszek\RelaxifyWebApp\RelaxifyEventRentWeb.Uti
 C:\Users\PC\Source\Repos\BlazejBartoszek\RelaxifyWebApp\RelaxifyEventRentWeb.Utility\obj\Debug\net8.0\RelaxifyEventRentWeb.Utility.pdb
 C:\Users\PC\Source\Repos\BlazejBartoszek\RelaxifyWebApp\RelaxifyEventRentWeb.Utility\obj\Debug\net8.0\ref\RelaxifyEventRentWeb.Utility.dll
 C:\Users\PC\Source\Repos\BlazejBartoszek\RelaxifyWebApp\RelaxifyEventRentWeb.Utility\obj\Debug\net8.0\RelaxifyEventRentWeb.Utility.csproj.AssemblyReference.cache
+C:\Users\Bodzio\Source\Repos\BlazejBartoszek\RelaxifyWebApp\RelaxifyEventRentWeb.Utility\obj\Debug\net8.0\RelaxifyEventRentWeb.Utility.csproj.AssemblyReference.cache

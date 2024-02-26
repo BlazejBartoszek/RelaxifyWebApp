@@ -42,7 +42,7 @@ namespace RelaxifyEventRentWeb.Areas.Admin.Controllers
             {
                 TempData["UpsertTitle"] = "Utwórz";
                 TempData["UpsertConfirmButton"] = "Utwórz";
-                TempData["ImageUrl"] = "https://placehold.co/500x600";
+                TempData["ImageUrl"] = "https://i.ibb.co/VS2fdFQ/400x550.png";
                 return View();
             }
             else
@@ -90,7 +90,7 @@ namespace RelaxifyEventRentWeb.Areas.Admin.Controllers
                 {
                     if (file == null)
                     {
-                        productVM.ImageUrl = "https://placehold.co/500x600";
+                        productVM.ImageUrl = "https://i.ibb.co/VS2fdFQ/400x550.png";
                     }
 
                     _productRepo.Add(productVM);

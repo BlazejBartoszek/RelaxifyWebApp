@@ -3243,6 +3243,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.1",
           "Microsoft.EntityFrameworkCore": "8.0.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0",
           "Pomelo.EntityFrameworkCore.MySql": "8.0.0-beta.2",
           "RelaxifyEventRentWeb.Models": "1.0.0",
           "RelaxifyEventRentWeb.Utility": "1.0.0"
@@ -8858,19 +8859,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {}
+    "C:\\Users\\Bodzio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\RelaxifyEventRentWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\RelaxifyEventRentWeb.csproj",
       "projectName": "RelaxifyEventRentWeb",
-      "projectPath": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\RelaxifyEventRentWeb.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\obj\\",
+      "projectPath": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\RelaxifyEventRentWeb.csproj",
+      "packagesPath": "C:\\Users\\Bodzio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bodzio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8884,11 +8885,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb.DataAccess\\RelaxifyEventRentWeb.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb.DataAccess\\RelaxifyEventRentWeb.DataAccess.csproj"
+            "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb.DataAccess\\RelaxifyEventRentWeb.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb.DataAccess\\RelaxifyEventRentWeb.DataAccess.csproj"
             },
-            "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb.Utility\\RelaxifyEventRentWeb.Utility.csproj": {
-              "projectPath": "C:\\Users\\PC\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb.Utility\\RelaxifyEventRentWeb.Utility.csproj"
+            "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb.Utility\\RelaxifyEventRentWeb.Utility.csproj": {
+              "projectPath": "C:\\Users\\Bodzio\\Source\\Repos\\BlazejBartoszek\\RelaxifyWebApp\\RelaxifyEventRentWeb.Utility\\RelaxifyEventRentWeb.Utility.csproj"
             }
           }
         }
@@ -8965,7 +8966,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

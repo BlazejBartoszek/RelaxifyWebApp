@@ -34,7 +34,7 @@ namespace RelaxifyEventRentWeb.Areas.Customer.Controllers
         {
             IEnumerable<Product> OneCategoryProductList = _productRepo.GetOneCategory(categoryId);
 
-            return View(OneCategoryProductList);
+            return View("Index", OneCategoryProductList);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
