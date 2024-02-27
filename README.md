@@ -10,15 +10,24 @@
 
 ## Technologies Used
 - ASP.Net Core - version 8.0
-- MySql - version 8.0
+- SqlServer - version 8.0
 - EntityFrameworkCore - version 8.0
 - Identity - version 8.0
+- Azure
 
 
 ## Features
 - creates new products and categories
 - displays products by category
 - module for logging in and registering new users divided into Client/Administrator roles
+
+## Instalation
+you don't need to install the application, you can find it at this address:
+
+https://relaxifyeventrentweb.azurewebsites.net/
+
+when registering you can choose user type, when using admin, click admin and then it will be available with full access to the site
+
 
 
 ## Screenshots
