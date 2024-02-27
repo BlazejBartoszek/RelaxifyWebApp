@@ -26,7 +26,8 @@ you don't need to install the application, you can find it below:
 
 https://relaxifyeventrentweb.azurewebsites.net/
 
-when registering you can choose user type, click admin and then it will be available with full access to the site
+when registering you can choose user type, click admin and then it will be available with full access to the site:
+![Relaxify](./Screenshots/rejestracja.png)
 
 
 
